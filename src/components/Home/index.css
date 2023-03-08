@@ -1,0 +1,66 @@
+.Typewriter__wrapper,
+.Typewriter__cursor {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #8DB600;
+}
+
+#target {
+  animation: wave 2.1s ease-out 0s infinite normal none;
+  display: block;
+  font-size: 4em;
+  padding-bottom: 1rem;
+  padding-left: 0.8rem;
+}
+
+@media screen and (max-width: 768px) {
+
+  .Typewriter__wrapper,
+  .Typewriter__cursor {
+    font-size: 1.5rem;
+    padding-left: 0.3rem;
+  }
+
+  #target {
+    font-size: 2rem;
+  }
+}
+
+iframe {
+  border: none;
+  width: 600px;
+  height: 600px;
+  /* opacity: 0.2; */
+}
+
+@keyframes wave {
+  0% {
+    transform: translate(1%);
+  }
+
+  10% {
+    transform: translate(1%, -5%) rotate(16deg) scale(1.1);
+  }
+
+  20% {
+    transform: scale(1.1) translate(-1%, 5%) rotate(-14deg);
+  }
+
+  30% {
+    transform: scale(1.1) translate(1%, -5%) rotate(10deg);
+  }
+
+  40% {
+    transform: scale(1) translate(-1%, 5%) rotate(-6deg);
+  }
+
+  50% {
+    transform: scale(1) translate(1%, -5%) rotate(4deg);
+  }
+
+  60% {
+    transform: translate(1%);
+  }
+
+  100% {}
+}

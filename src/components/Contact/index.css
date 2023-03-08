@@ -1,0 +1,46 @@
+.inputbox {
+  position: relative;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.inputbox input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid grey;
+  outline: none;
+  background: none;
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 0;
+  transition: 0.4s;
+  height: 4rem;
+}
+
+.inputbox span {
+  position: absolute;
+  top: 12px;
+  left: 10px;
+  padding: 10px;
+  pointer-events: none;
+  font-size: 1rem;
+  color: grey;
+  transition: 0.4s;
+  text-transform: uppercase;
+}
+
+.inputbox input:valid~span,
+.inputbox input:focus~span,
+.inputbox input:active~span {
+  color: #171717;
+  transform: translateX(20px) translateY(-18px);
+  font-size: 0.7rem;
+  padding: 0 10px;
+  background: #8DB600;
+  letter-spacing: 3px;
+}
+
+.inputbox input:valid,
+.inputbox input:focus {
+  border: 1px solid #8DB600;
+}
