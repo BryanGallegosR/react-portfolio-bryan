@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-bryan/static/css/main.cd441cfc.css",
+    "main.js": "/react-portfolio-bryan/static/js/main.c7b44b48.js",
+    "index.html": "/react-portfolio-bryan/index.html",
+    "main.cd441cfc.css.map": "/react-portfolio-bryan/static/css/main.cd441cfc.css.map",
+    "main.c7b44b48.js.map": "/react-portfolio-bryan/static/js/main.c7b44b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd441cfc.css",
+    "static/js/main.c7b44b48.js"
+  ]
+}
