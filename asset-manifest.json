@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio-bryan/static/css/main.cd441cfc.css",
-    "main.js": "/react-portfolio-bryan/static/js/main.c7b44b48.js",
+    "main.css": "/react-portfolio-bryan/static/css/main.d3e7295f.css",
+    "main.js": "/react-portfolio-bryan/static/js/main.cf67889d.js",
+    "static/media/bmw.jpg": "/react-portfolio-bryan/static/media/bmw.91906efe5cd5a1e1fb6e.jpg",
+    "static/media/ferrari.jpg": "/react-portfolio-bryan/static/media/ferrari.cb5529f80c3a55dbb7d9.jpg",
+    "static/media/jaguar.jpg": "/react-portfolio-bryan/static/media/jaguar.9fa8fdf0373e1a314c4f.jpg",
+    "static/media/mclaren.jpg": "/react-portfolio-bryan/static/media/mclaren.f465e7a0716fd169744f.jpg",
+    "static/media/porsche.jpg": "/react-portfolio-bryan/static/media/porsche.439f9b705deb47a511b2.jpg",
+    "static/media/audi.jpg": "/react-portfolio-bryan/static/media/audi.fcdfaf26c7d59f7f5adf.jpg",
+    "static/media/mercedes.jpg": "/react-portfolio-bryan/static/media/mercedes.ebdf041654c3eebe5af7.jpg",
+    "static/media/lamborghini.jpg": "/react-portfolio-bryan/static/media/lamborghini.92de1e81e961a5fec314.jpg",
+    "static/media/card-back.jpg": "/react-portfolio-bryan/static/media/card-back.621950e028765561223c.jpg",
     "index.html": "/react-portfolio-bryan/index.html",
-    "main.cd441cfc.css.map": "/react-portfolio-bryan/static/css/main.cd441cfc.css.map",
-    "main.c7b44b48.js.map": "/react-portfolio-bryan/static/js/main.c7b44b48.js.map"
+    "static/media/New Text Document.txt": "/react-portfolio-bryan/static/media/New Text Document.b634dbc039b4b682814e.txt",
+    "main.d3e7295f.css.map": "/react-portfolio-bryan/static/css/main.d3e7295f.css.map",
+    "main.cf67889d.js.map": "/react-portfolio-bryan/static/js/main.cf67889d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd441cfc.css",
-    "static/js/main.c7b44b48.js"
+    "static/css/main.d3e7295f.css",
+    "static/js/main.cf67889d.js"
   ]
 }
